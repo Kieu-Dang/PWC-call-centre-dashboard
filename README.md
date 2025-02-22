@@ -1,5 +1,5 @@
 This is a part of the PWC job simulation on using Power BI.
-I generated a 2 pages dashboard reflecting the overall performance and a breakdown by agents.
+I generated a 2 page dashboard reflecting the overall performance and a breakdown by agents.
 
 ![image](https://github.com/user-attachments/assets/9d969989-18ed-4afb-8080-66035b301ec5)
 ![image](https://github.com/user-attachments/assets/2c39c89d-010e-4846-b866-b026c982c6ef)
